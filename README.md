@@ -34,7 +34,7 @@ The Spring semester continues covering more topics oriented towards Software dev
 - Advanced Bash Scripting
 - Static Code Analysis
 - Compilation and Execution Process in Python: AST, ByteCode, CPython vs Pypy, JIT
-- Memory management in Python: Reference Counting and Garabage Collection
+- Memory management in Python: Reference Counting and Garbage Collection
 - Threading, Parallelism and Concurrency: Multiprocesses, Threads, GIL, Asyncio 
 - Servers, deployment, docker
 - Web frameworks: flask, fastAPI
