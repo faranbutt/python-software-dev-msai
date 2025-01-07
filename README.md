@@ -3,6 +3,15 @@ This is the repository for the Python class at the MSAI program in the Fall 2024
 
 This course is about Software Development with Python.
 
+## How to submit assignments 
+1. Fork the repository.
+2. Clone your fork.
+3. Work on your fork, and make a pull request with your code changes.
+
+## Materials
+- `./assignments/` contains the assignments to be submitted.
+- `./lectures_notesooks/` contains the notebooks used during the webinars.
+
 ## Fall Semester 2024
 The Fall semester covers introductory topics:
 - Environments
